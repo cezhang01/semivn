@@ -1,0 +1,9 @@
+algorithm parallel paper problem performance result implementation number support work computation operation model machine communication provide memory include datum grant 
+algorithm problem time log method point optimal size structure result geometric bound space set computational vertex paper datum technique number 
+quantum time computation problem computer algorithm paper polynomial model machine result require number probabilistic bit universal efficient bound step consider 
+algorithm log random time problem number result construction probability work function bit graph paper set proof system application independent size 
+system time model hybrid state verification automaton result paper finite program problem space logic version algorithm control analysis specification linear 
+time system paper property algorithm theory problem method number simulation model random technique result bound appear proof hash base case 
+result polynomial complexity time function proof number problem paper class case language system theory prove input work bound set algorithm 
+system model logic result automaton paper constraint set algorithm program space analysis property finite time language problem relation state theory 
+algorithm parallel problem sort model number time memory paper communication sorting processor method result design optimal datum computation network log 
