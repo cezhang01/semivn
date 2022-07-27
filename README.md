@@ -3,6 +3,8 @@ Source code and datasets of ECML/PKDD-21 paper, [Semi-Supervised Semantic Visual
 
 SemiVN is a model that can i) extract latent topics from a collection of documents, and ii) visualize documents, topics, and labels.
 
+![](/paper/interaction.jpg)
+
 ## Implementation Environment
 - numpy == 1.17.4
 - tensorflow == 1.9.0
